@@ -1,0 +1,33 @@
+
+.schedule-container {
+     min-width: 800px;
+}
+
+.input-container {
+     min-width: 800px;
+}
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+@font-face {
+    font-family: 'Pokefont';
+    src: url(../img/PokemonSolid.ttf) format('truetype');
+        
+}
+
+h1.text-center {
+    font-family: 'Pokefont';
+    font-size: 50px;
+}
+
+
+h3 {
+    font-family: 'Pokefont';
+    color: #3164a6;
+
+}
+
+
